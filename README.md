@@ -1,3 +1,3 @@
 # Show time
 
-Show description.
+Show description!
